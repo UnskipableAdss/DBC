@@ -5,7 +5,7 @@
 // ─────────────────────────────────────────────────────────────────────────────
 
 import 'dart:convert';
-import 'package:http/http.dart'
+import 'package:http/http.dart' as http;
 
 class BlockchainApi {
   // 10.0.2.2 = your PC's localhost as seen from the Android emulator
